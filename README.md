@@ -1,4 +1,5 @@
 # EEG-Project
+
 Contains all my work of EEG project
 <br>
-Author - Abdur Rafay
+Author - Abdur Rafay baba
